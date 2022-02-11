@@ -1,27 +1,27 @@
 {
     "base": {
-        "url": "http://pocketlaw.s3-website-us-east-1.amazonaws.com/base_2022_01_06.tgz",
+        "url": "https://pocketlaw-content-packs.s3.eu-west-1.amazonaws.com/zimlii/base_2022_01_06.tgz",
         "filename": "base_2022_01_06.tgz",
         "size": 26384782,
         "version": "2022-01-06",
         "timestamp": "2022-01-06T08:03:27.376Z"
     },
     "caselaw": {
-        "url": "http://pocketlaw.s3-website-us-east-1.amazonaws.com/caselaw_2022_01_06.tgz",
+        "url": "https://pocketlaw-content-packs.s3.eu-west-1.amazonaws.com/zimlii/caselaw_2022_01_06.tgz",
         "filename": "caselaw_2022_01_06.tgz",
         "size": 5540903,
         "version": "2022-01-06",
         "timestamp": "2022-01-06T08:03:27.376Z"
     },
     "legislation": {
-        "url": "http://pocketlaw.s3-website-us-east-1.amazonaws.com/legislation_2022_01_06.tgz",
+        "url": "https://pocketlaw-content-packs.s3.eu-west-1.amazonaws.com/zimlii/legislation_2022_01_06.tgz",
         "filename": "legislation_2022_01_06.tgz",
         "size": 18484387,
         "version": "2022-01-06",
         "timestamp": "2022-01-06T08:03:27.376Z"
     },
     "gazettes": {
-        "url": "http://pocketlaw.s3-website-us-east-1.amazonaws.com/gazettes_2022_01_06.tgz",
+        "url": "https://pocketlaw-content-packs.s3.eu-west-1.amazonaws.com/zimlii/gazettes_2022_01_06.tgz",
         "filename": "gazettes_2022_01_06.tgz",
         "size": 48043050,
         "version": "2022-01-06",
