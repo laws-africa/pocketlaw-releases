@@ -7,5 +7,23 @@
         "version": "2022-02-18",
         "date": "2022-02-18",
         "dateString": "18 Feb 2022"
+    },
+    "caselaw": {
+        "url": null,
+        "filename": null,
+        "size": null,
+        "sizeString": null,
+        "version": null,
+        "date": null,
+        "dateString": null
+    },
+    "legislation": {
+        "url": null,
+        "filename": null,
+        "size": null,
+        "sizeString": null,
+        "version": null,
+        "date": "2022-02-18",
+        "dateString": "18 Feb 2022"
     }
 }
