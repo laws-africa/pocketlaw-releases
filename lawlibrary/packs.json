@@ -12,18 +12,18 @@
         "url": null,
         "filename": null,
         "size": null,
-        "sizeString": "unavailable",
-        "version": "unavailable",
+        "sizeString": null,
+        "version": null,
         "date": null,
-        "dateString": "unavailable"
+        "dateString": null
     },
     "legislation": {
         "url": null,
         "filename": null,
         "size": null,
-        "sizeString": "unavailable",
-        "version": "unavailable",
+        "sizeString": null,
+        "version": null,
         "date": null,
-        "dateString": "unavailable"
+        "dateString": null
     }
 }
