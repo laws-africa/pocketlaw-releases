@@ -1,29 +1,29 @@
 {
     "base": {
-        "url": "https://pocketlaw.s3.eu-west-1.amazonaws.com/zimlii/content-packs/base_2022_02_18.tgz",
-        "filename": "base_2022_02_18.tgz",
-        "size": 190272278,
-        "sizeString": "188 MB",
-        "version": "2022-02-18",
-        "date": "2022-02-18",
-        "dateString": "18 Feb 2022"
+        "url": "https://pocketlaw.s3.eu-west-1.amazonaws.com/lawlibrary/content-packs/lawlibrary_base_2022_05_24.tgz",
+        "filename": "lawlibrary_base_2022_05_24.tgz",
+        "size": 379633397,
+        "sizeString": "379.6 MB",
+        "version": "2022-05-24",
+        "date": "2022-05-24T06:36:26.001681",
+        "dateString": "24 May, 2022"
     },
     "caselaw": {
-        "url": null,
-        "filename": null,
-        "size": null,
-        "sizeString": null,
-        "version": null,
-        "date": null,
-        "dateString": null
+        "url": "https://pocketlaw.s3.eu-west-1.amazonaws.com/lawlibrary/content-packs/lawlibrary_caselaw_2022_05_24.tgz",
+        "filename": "lawlibrary_caselaw_2022_05_24.tgz",
+        "size": 3530688650,
+        "sizeString": "3.5 GB",
+        "version": "2022-05-24",
+        "date": "2022-05-24T06:36:26.001929",
+        "dateString": "24 May, 2022"
     },
     "legislation": {
-        "url": null,
-        "filename": null,
-        "size": null,
-        "sizeString": null,
-        "version": null,
-        "date": null,
-        "dateString": null
+        "url": "https://pocketlaw.s3.eu-west-1.amazonaws.com/lawlibrary/content-packs/lawlibrary_legislation_2022_05_24.tgz",
+        "filename": "lawlibrary_legislation_2022_05_24.tgz",
+        "size": 846590458,
+        "sizeString": "846.6 MB",
+        "version": "2022-05-24",
+        "date": "2022-05-24T06:36:26.002198",
+        "dateString": "24 May, 2022"
     }
 }
