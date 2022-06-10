@@ -18,12 +18,12 @@
         "dateString": "10 Jun, 2022"
     },
     "legislation": {
-        "url": "https://pocketlaw.s3.eu-west-1.amazonaws.com/lawlibrary/content-packs/lawlibrary_gazettes_2022_06_10.tgz",
-        "filename": "lawlibrary_gazettes_2022_06_10.tgz",
-        "size": 0,
-        "sizeString": "0 Bytes",
+        "url": "https://pocketlaw.s3.eu-west-1.amazonaws.com/lawlibrary/content-packs/lawlibrary_legislation_2022_06_10.tgz",
+        "filename": "lawlibrary_legislation_2022_06_10.tgz",
+        "size": 875778866,
+        "sizeString": "875.8 MB",
         "version": "2022-06-10",
-        "date": "2022-06-10T09:56:31.952874",
+        "date": "2022-06-10T09:56:31.953011",
         "dateString": "10 Jun, 2022"
     }
 }
