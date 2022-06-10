@@ -1,29 +1,29 @@
 {
     "base": {
-        "url": "https://pocketlaw.s3.eu-west-1.amazonaws.com/lawlibrary/content-packs/lawlibrary_base_2022_05_24.tgz",
-        "filename": "lawlibrary_base_2022_05_24.tgz",
-        "size": 379633397,
-        "sizeString": "379.6 MB",
-        "version": "2022-05-24",
-        "date": "2022-05-24T06:36:26.001681",
-        "dateString": "24 May, 2022"
+        "url": "https://pocketlaw.s3.eu-west-1.amazonaws.com/lawlibrary/content-packs/lawlibrary_base_2022_06_10.tgz",
+        "filename": "lawlibrary_base_2022_06_10.tgz",
+        "size": 375824918,
+        "sizeString": "375.8 MB",
+        "version": "2022-06-10",
+        "date": "2022-06-10T09:56:31.952282",
+        "dateString": "10 Jun, 2022"
     },
     "caselaw": {
-        "url": "https://pocketlaw.s3.eu-west-1.amazonaws.com/lawlibrary/content-packs/lawlibrary_caselaw_2022_05_24.tgz",
-        "filename": "lawlibrary_caselaw_2022_05_24.tgz",
-        "size": 3530688650,
-        "sizeString": "3.5 GB",
-        "version": "2022-05-24",
-        "date": "2022-05-24T06:36:26.001929",
-        "dateString": "24 May, 2022"
+        "url": "https://pocketlaw.s3.eu-west-1.amazonaws.com/lawlibrary/content-packs/lawlibrary_caselaw_2022_06_10.tgz",
+        "filename": "lawlibrary_caselaw_2022_06_10.tgz",
+        "size": 4028775734,
+        "sizeString": "4.0 GB",
+        "version": "2022-06-10",
+        "date": "2022-06-10T09:56:31.952689",
+        "dateString": "10 Jun, 2022"
     },
-    "legislation": {
-        "url": "https://pocketlaw.s3.eu-west-1.amazonaws.com/lawlibrary/content-packs/lawlibrary_legislation_2022_05_24.tgz",
-        "filename": "lawlibrary_legislation_2022_05_24.tgz",
-        "size": 846590458,
-        "sizeString": "846.6 MB",
-        "version": "2022-05-24",
-        "date": "2022-05-24T06:36:26.002198",
-        "dateString": "24 May, 2022"
+    "gazettes": {
+        "url": "https://pocketlaw.s3.eu-west-1.amazonaws.com/lawlibrary/content-packs/lawlibrary_gazettes_2022_06_10.tgz",
+        "filename": "lawlibrary_gazettes_2022_06_10.tgz",
+        "size": 0,
+        "sizeString": "0 Bytes",
+        "version": "2022-06-10",
+        "date": "2022-06-10T09:56:31.952874",
+        "dateString": "10 Jun, 2022"
     }
 }
